@@ -1,14 +1,23 @@
-# Olá, eu sou a Dani! 👋
+# Olá, meu nome é Danila, prazer! 👋🏻
 
-🚀 **Estudante de ADS** focada em construir uma base sólida em programação e banco de dados.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
 
-- 🌱 Meu foco no momento: Python, SQL e Git/GitHub
+🛢️ Apaixonada por **SQL (MySQL)** e entusiasta do **Python** — eles são o meu maior foco de estudo no momento! Adoro descobrir coisas novas nessas tecnologias todos os dias.
+
+🎯 **Meu objetivo:** Meu grande sonho é construir uma carreira sólida trabalhando com **Banco de Dados**!
+
+---
+
+### 📌 Sobre mim
+
+- 💡 **Foco atual:** Dominar consultas, modelagem de banco de dados e automações com Python.
+- 🛠️ **Em aprendizado:** Entendendo a fundo o **Git & GitHub** para organizar e versionar todos os meus projetos.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
