@@ -12,9 +12,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danilanogueiradjs&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-</p>
