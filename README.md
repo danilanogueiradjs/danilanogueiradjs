@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou a Dani! 👋
 
-<!--
-**danilanogueiradjs/danilanogueiradjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudante de ADS** focada em construir uma base sólida em programação e banco de dados.
 
-Here are some ideas to get you started:
+- 🌱 Meu foco no momento: Python, SQL e Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danilanogueiradjs&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+</p>
