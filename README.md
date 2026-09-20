@@ -18,6 +18,7 @@
 ### 🛠️ Tecnologias e Ferramentas (Em estudo)
 
 🔹 SQL (MySQL e Modelagem Relacional)
+
 🔹 Python (Lógica de programação)
 
 🔹 Git & GitHub
