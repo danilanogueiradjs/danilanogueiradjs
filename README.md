@@ -19,4 +19,5 @@
 
 🔹 SQL (MySQL e Modelagem Relacional)
 🔹 Python (Lógica de programação)
+
 🔹 Git & GitHub
